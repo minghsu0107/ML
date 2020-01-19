@@ -1,2 +1,2 @@
 # ML
-Machine Learning
+My notes for machine Learning.
